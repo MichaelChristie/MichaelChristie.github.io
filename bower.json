@@ -1,0 +1,28 @@
+{
+  "name": "mycomponents",
+  "homepage": "https://github.com/MichaelChristie/TD4",
+  "authors": [
+    "Michael Christie <christie.michael@gmail.com>"
+  ],
+  "description": "building the site",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "nothing"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0",
+    "font-awesome": "fontawesome#^4.5.0",
+    "bootstrap": "4.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
